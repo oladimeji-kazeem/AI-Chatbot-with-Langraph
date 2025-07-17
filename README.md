@@ -34,3 +34,15 @@ This project showcases how to build and deploy a robust, modular, and scalable A
 | Frontend UI |       |  Backend API |       |  Chat Agent |
 +-------------+       +--------------+       +-------------+
 
+- ✅ Streamlit handles user input/output.
+- ✅ FastAPI receives the input, routes it to Langraph, and sends back the response.
+- ✅ Langraph defines the conversational agent, tools, memory, and logic.
+
+## 🔧 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/End-to-End-AI-Chatbot-with-Langraph-FastAPI-and-Streamlit-UI.git
+cd End-to-End-AI-Chatbot-with-Langraph-FastAPI-and-Streamlit-UI
+
